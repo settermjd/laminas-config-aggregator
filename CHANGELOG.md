@@ -2,27 +2,35 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
-## 1.15.0 - TBD
+## 1.15.0 - 2024-05-12
 
-### Added
 
-- Nothing.
+-----
 
-### Changed
+### Release Notes for [1.15.0](https://github.com/laminas/laminas-config-aggregator/milestone/27)
 
-- Nothing.
+Feature release (minor)
 
-### Deprecated
+### 1.15.0
 
-- Nothing.
+- Total issues resolved: **0**
+- Total pull requests resolved: **6**
+- Total contributors: **3**
 
-### Removed
+#### Enhancement
 
-- Nothing.
+ - [45: Add support for `brick/varexporter` 0.5.0](https://github.com/laminas/laminas-config-aggregator/pull/45) thanks to @acelaya
+ - [39: Upgrade PHPUnit to version 10.x](https://github.com/laminas/laminas-config-aggregator/pull/39) thanks to @gsteel
 
-### Fixed
+#### Duplicate,renovate
 
-- Nothing.
+ - [44: Update dependency brick/varexporter to ^0.4.0 || ^0.5.0 - autoclosed](https://github.com/laminas/laminas-config-aggregator/pull/44) thanks to @renovate[bot]
+ - [33: Update dependency phpunit/phpunit to v10](https://github.com/laminas/laminas-config-aggregator/pull/33) thanks to @renovate[bot]
+
+#### renovate
+
+ - [43: Remove dev dependency laminas/laminas-servicemanager, CI matrix QA](https://github.com/laminas/laminas-config-aggregator/pull/43) thanks to @renovate[bot]
+ - [41: Drop direct dev dependency on `nikic/php-parser`](https://github.com/laminas/laminas-config-aggregator/pull/41) thanks to @renovate[bot]
 
 ## 1.14.0 - 2023-09-19
 
